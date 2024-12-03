@@ -1,7 +1,4 @@
-```
-To (B OR not to C):
-     that is the condition.
-```
+The Jacksons - I want you back
 <!--
 **bernie-haxx/bernie-haxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

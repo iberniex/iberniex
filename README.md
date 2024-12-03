@@ -1,4 +1,5 @@
-## Hi there 👋
+To (B OR not to C):
+     that is the condition.
 
 <!--
 **bernie-haxx/bernie-haxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

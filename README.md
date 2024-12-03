@@ -1,7 +1,7 @@
 Welcome to your seasonal coding entertainment.
 
 Next record on turntable: 
-- Anri - ***last summer whisper***
+- Anri - ***shyness boy***
 <!--
 **bernie-haxx/bernie-haxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

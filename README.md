@@ -1,4 +1,5 @@
-next up: Jackson 5 - ***I want you back***
+next up on your yearly website making playlist: 
+        - Jackson 5 - ***I want you back***
 <!--
 **bernie-haxx/bernie-haxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

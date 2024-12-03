@@ -1,4 +1,4 @@
-Welcome to your Hourly coding entertainment.
+Welcome to your seasonal coding entertainment.
 
 Next record on turntable: 
 - Anri - ***last summer whisper***

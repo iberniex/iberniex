@@ -1,11 +1,6 @@
-Greetings Earth Dwellers!!!!
-
-Bernard/Bernie/Ben Here.
-
-Enough Sed.
+Bernard/Bernie/Ben Here. Also was bernie-haxx(don't ask what happened).
 
 Welcome to your seasonal coding entertainment.
-
 Next record on turntable: 
 - Anri - ***shyness boy***
 <!--

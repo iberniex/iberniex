@@ -1,3 +1,9 @@
+Greetings Earth Dwellers!!!!
+
+Bernard/Bernie/Ben Here.
+
+Enough Sed.
+
 Welcome to your seasonal coding entertainment.
 
 Next record on turntable: 

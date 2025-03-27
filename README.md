@@ -1,7 +1,9 @@
-Hey 👋 Bernard/Bernie/Ben Here. 
+Hey 👋  : Bernard/Bernie/Ben Here. 
+
 Also was bernie-haxx(don't ask what happened).
 
 Welcome to my seasonal coding entertainment.
+
 Next record on turntable 💿: 
 - Anri - ***I can't stop the loneliness***
 <!--

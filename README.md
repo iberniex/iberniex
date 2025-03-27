@@ -1,8 +1,9 @@
-Bernard/Bernie/Ben Here. Also was bernie-haxx(don't ask what happened).
+Hey 👋 Bernard/Bernie/Ben Here. 
+Also was bernie-haxx(don't ask what happened).
 
-Welcome to your seasonal coding entertainment.
-Next record on turntable: 
-- Anri - ***shyness boy***
+Welcome to my seasonal coding entertainment.
+Next record on turntable 💿: 
+- Anri - ***I can't stop the loneliness***
 <!--
 **bernie-haxx/bernie-haxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

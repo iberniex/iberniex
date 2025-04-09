@@ -1,8 +1,6 @@
-Hey 👋  : Bernard/Bernie/Ben Here. 
-
-Also was bernie-haxx(don't ask what happened).
-
-Welcome to my seasonal coding entertainment.
+Yo 🙋🏽‍♂️
+Pointer Juggler and aspiring rustecean here.
+[gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFoOTIxb3Rqank4ZnozdzZoeHV4bm81Nnp5NTBwYXpydTJ5dzQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ovQzYtJqIJcGUfHDlf/giphy.gif)
 
 Next record on turntable 💿: 
 - Anri - ***I can't stop the loneliness***

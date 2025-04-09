@@ -1,6 +1,6 @@
 Yo 🙋🏽‍♂️
-Pointer Juggler and aspiring rustecean here.
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFoOTIxb3Rqank4ZnozdzZoeHV4bm81Nnp5NTBwYXpydTJ5dzQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ovQzYtJqIJcGUfHDlf/giphy.gif)
+
+👾 Pointer Juggler and aspiring rustecean 🦀 here.
 
 Next record on turntable 💿: 
 - Anri - ***I can't stop the loneliness***

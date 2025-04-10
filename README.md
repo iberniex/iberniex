@@ -5,8 +5,7 @@
     
     👾 Pointer Juggler and aspiring rustecean 🦀 here.
     
-    Next record on turntable 💿: 
-    - Anri - shyness boy
+    i forgot what to write here lol
 
 </vibeesthetic>
 

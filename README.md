@@ -1,14 +1,9 @@
 ```
-<vibeesthetic>
-
     Yo 🙋🏽‍♂️
     
     👾 Pointer Juggler and aspiring rustecean 🦀 here.
     
     i forgot what to write here lol
-
-</vibeesthetic>
-
 ```
 
 <!--

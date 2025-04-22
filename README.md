@@ -1,9 +1,10 @@
 ```
     Yo 🙋🏽‍♂️
     
-    👾 Pointer Juggler and aspiring rustecean 🦀 here.
-    
-    i forgot what to write here lol
+    Aspiring heker👾,
+        sulushans architect,
+            Pointer Juggler and rustecean 🦀 here.
+
 ```
 
 <!--

@@ -1,7 +1,7 @@
 ```
     Yo 🙋🏽‍♂️
     
-    Aspiring heker👾,
+    Aspiring manepuleter👾,
         sulushans architect,
             Pointer Juggler and rustecean 🦀 here.
 

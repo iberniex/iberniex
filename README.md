@@ -1,24 +1,12 @@
+<img align='left' src='typu.gif' width='150' />
+
 ```
     Yo 🙋🏽‍♂️
     
-    Aspiring manepuleter👾,
-        sulushans architect,
-            Pointer Juggler and rustecean 🦀 here.
+    Aspiring reverse engineer👾,
+        meme typer,
+            sulushans architect,
+                Pointer Juggler and rustecean 🦀 here.
 
     Next Track 💿 : Running in the 90's ~ Max Coveri
 ```
-
-<!--
-**bernie-haxx/bernie-haxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

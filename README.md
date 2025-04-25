@@ -3,7 +3,7 @@
 ```
     Yo 🙋🏽‍♂️
 
-    Bernard, Bernie and Ben Here 🎃.
+    Bernard, Bernie or Ben Here 🎃.
 
     Aspiring reverse engineer👾,
         meme typer,

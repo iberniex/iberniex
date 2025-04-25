@@ -2,7 +2,10 @@
 
 ```
     Yo 🙋🏽‍♂️
-    
+
+    I'm Bernard 😊.
+    Some people call Ben or Bernie.
+
     Aspiring reverse engineer👾,
         meme typer,
             sulushans architect,

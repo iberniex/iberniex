@@ -3,7 +3,7 @@
 ```
     Yo 🙋🏽‍♂️
 
-    I'm Bernard 😊.
+    Bernard Here 🎃.
     Some people call Ben or Bernie.
 
     Aspiring reverse engineer👾,

@@ -3,8 +3,7 @@
 ```
     Yo 🙋🏽‍♂️
 
-    Bernard Here 🎃.
-    Some people call Ben or Bernie.
+    Bernard, Bernie and Ben Here 🎃.
 
     Aspiring reverse engineer👾,
         meme typer,

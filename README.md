@@ -5,7 +5,7 @@
 
     Bernard, Bernie or Ben Here 🎃.
 
-    an aspiring Reverse Engineer👾,
+    An aspiring Reverse Engineer👾,
         meme typer,
             sulushans architect,
                 Pointer Juggler and rustecean 🦀.

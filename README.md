@@ -5,10 +5,10 @@
 
     Bernard, Bernie or Ben Here 🎃.
 
-    Aspiring reverse engineer👾,
+    an aspiring Reverse Engineer👾,
         meme typer,
             sulushans architect,
-                Pointer Juggler and rustecean 🦀 here.
+                Pointer Juggler and rustecean 🦀.
 
     💿 : Leslie Parish ~ Save Me
 ```

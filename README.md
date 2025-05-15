@@ -1,7 +1,7 @@
 <img align='left' src='typu.gif' width='150' />
 
 ```
-    Yo 🙋🏽‍♂️
+    Hello There 🙋🏽‍♂️
 
     Bernard, Bernie or Ben Here 🎃.
 

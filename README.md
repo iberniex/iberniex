@@ -5,5 +5,5 @@
     Bernard, Bernie or Ben Here 🎃.
     An aspiring Reverse Engineer👾, Pointer Juggler and rustecean 🦀.
 
-    💿 : I CANR STOP THE LONELINESS ~ ANRI
+    💿 : I CANT STOP THE LONELINESS ~ ANRI
 ```

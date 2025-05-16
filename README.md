@@ -5,5 +5,5 @@
     Bernard, Bernie or Ben Here 🎃.
     An aspiring Reverse Engineer👾, Pointer Juggler and rustecean 🦀.
 
-    💿 : Leslie Parish ~ Save Me
+    💿 : I CANR STOP THE LONELINESS ~ ANRI
 ```

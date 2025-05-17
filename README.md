@@ -2,7 +2,7 @@
 
 ```
     Yo 🙋🏽‍♂️
-    Bernard, Bernie or Ben Here 🎃.
+    Bernard Here 🎃. 
     An aspiring Reverse Engineer👾, Pointer Juggler and rustecean 🦀.
 
     💿 : Super Trouper ~ ABBA

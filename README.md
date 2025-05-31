@@ -1,4 +1,4 @@
-<img align='left' src='typu.gif' width='150' />
+<img align='left' src='typu.gif' width='160' />
 
 ```
     Yo 🙋🏽‍♂️

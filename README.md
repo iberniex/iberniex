@@ -1,9 +1,9 @@
 <img align='left' src='typu.gif' width='160' />
 
 ```
-    Yo 🙋🏽‍♂️
-    Bernard Here 🎃. 
-    An  aspiring Reverse Engineer👾, Pointer Juggler and rustecean 🦀.
+Yo 🙋🏽‍♂️
+Bernard Here 🎃. 
+An  aspiring Reverse Engineer👾, Pointer Juggler and rustecean 🦀.
 
-    💿 : Super Trouper ~ ABBA
+💿 : Super Trouper ~ ABBA
 ```

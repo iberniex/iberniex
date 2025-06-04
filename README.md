@@ -1,10 +1,9 @@
 <img align='left' src='typu.gif' width='160' />
 
 ```
-Yo 🙋🏽‍♂️
-Bernard Here 🎃. 
-An aspiring Reverse Engineer👾, Pointer Juggler and rustecean 🦀.
-I like music and coffee.
+Yo: Bernard Here 🎃. 
+Aspirations: reverse-engineering 👾, point-juggling and rusteceanesque 🦀.
+Likes: music and coffee.
 
 💿 : Runaway ~ Kanye West
 ```

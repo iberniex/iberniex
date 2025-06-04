@@ -3,7 +3,7 @@
 ```
 Yo: Bernard Here 🎃. 
 Aspirations: reverse-engineering 👾, point-juggling and rusteceanesque 🦀.
-Likes: music and coffee.
+Likes: memes, music and coffee.
 
 💿 : Runaway ~ Kanye West
 ```

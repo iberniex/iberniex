@@ -5,5 +5,5 @@ Yo: Bernard Here 🎃.
 Aspirations: reverse-engineering 👾, point-juggling and rusteceanesque 🦀.
 Likes: memes, music and coffee.
 
-💿 : Runaway ~ Kanye West
+💿 : Radioactive ~ Bullet for My Valentine
 ```

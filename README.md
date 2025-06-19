@@ -5,5 +5,5 @@ Yo: Bernard Here 🎃.
 Aspirations: reverse-engineering 👾, point-juggling and rusteceanesque 🦀.
 Likes: memes, music, coffee and more coffee.
 
-💿 : Radioactive ~ Bullet for My Valentine
+💿 : odoriko ~ Vuandy
 ```

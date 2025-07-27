@@ -1,8 +1,8 @@
 <img align='left' src='typu.gif' width='160' />
 
-```rust
+```elixir
 Yo: Bernard Here 🎃. 
-Aspirations: reverse-engineering 👾, point-juggling and rusteceanesque 🦀.
+Aspirations: reverse-eng, cloud-security and sys-prog-guru 👾.
 Likes: memes, music, coffee and more coffee.
 
 💿 : Aoi ~ Sakanaction

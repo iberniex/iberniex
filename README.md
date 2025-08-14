@@ -1,9 +1,10 @@
 <img align='left' src='typu.gif' width='160' />
 
 ```python
-Yo: Bernard Here 🎃. 
+Yo: Bernard Here 🎃.
+Currently: Junior Fullstack Developer at Resarv
 Aspirations: reverse-eng, cloud-security and sys-prog-guru 👾.
 Likes: memes, music, coffee and more coffee.
 
-💿 : Aoi ~ Sakanaction
+💿 : Cake By The Ocean ~ DNCE
 ```

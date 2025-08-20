@@ -1,4 +1,4 @@
-<img align='left' src='typu.gif' width='160' />
+<img align='left' src='typu.gif' width='120' />
 
 ```python
 Yo: Bernard Here 🎃.

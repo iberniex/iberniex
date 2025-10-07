@@ -6,5 +6,5 @@ Currently: Junior Fullstack Developer at Resarv
 Aspirations: reverse-eng, cloud-security and sys-prog-guru 👾.
 Likes: memes, music, coffee and more coffee.
 
-💿 : Kanashii Kurai ~ Off Course
+💿 : The Chain ~ Fleetwood Mac
 ```

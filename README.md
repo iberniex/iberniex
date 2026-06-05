@@ -2,7 +2,7 @@
 
 ```python
 Yo: Bernard Here 🎃.
-Currently: Junior Fullstack Developer at Resarv
+Currently: Free Lancer and Learner
 Aspirations: reverse-eng, cloud-security and sys-prog-guru 👾.
 Likes: memes, music, coffee and more coffee.
 

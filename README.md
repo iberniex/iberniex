@@ -4,7 +4,7 @@
 Yo: Bernard Here 🎃.
 Currently: Free Lancer and Learner
 Aspirations: reverse-eng, cloud-security and sys-prog-guru 👾.
-Likes: memes, music, coffee and more coffee.
+Likes: memes, music and cocoa.
 
 💿 : The Chain ~ Fleetwood Mac
 ```

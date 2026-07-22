@@ -1,10 +1,2 @@
-<img align='left' src='typu.gif' width='60' />
+<img align='left' src='typu.gif' width='200' />
 
-```python
-Yo: Bernard Here 🎃.
-Currently: Free Lancer and Learner
-Aspirations: reverse-eng, cloud-security and sys-prog-guru 👾.
-Likes: memes, music and cocoa.
-
-💿 : The Chain ~ Fleetwood Mac
-```
